@@ -20,7 +20,7 @@ This project segments customers into meaningful groups using K-Means clustering,
 5. **Output**:
    - Save clustered data in `clustered_customers.csv`. 💾
 
-Dependencies 📦
+## Dependencies 📦
 Python 3.6+
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn.
 
